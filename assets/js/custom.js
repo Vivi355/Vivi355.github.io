@@ -605,14 +605,14 @@
     if ($("#textTyped").length) {
       new Typed("#textTyped", {
         strings: [
-          "web developer",
-          "ui designer",
-          "Digital Marketter",
-          "Freelancer",
-          "Psychiatrist",
+          "Software Engineer",
+          // "ui designer",
+          // "Digital Marketter",
+          // "Freelancer",
+          // "Psychiatrist",
         ],
-        typeSpeed: 50,
-        startDelay: 50,
+        typeSpeed: 150,
+        startDelay: 250,
         backSpeed: 50,
         backDelay: 1000,
         loop: true,

@@ -419,7 +419,7 @@
      * ======================================
      */
     $("#downloadCv").on("click", function () {
-      var pdfURL = "assets/images/sample-page.pdf";
+      var pdfURL = "assets/images/Vivian-Resume.pdf";
 
       var downloadLink = document.createElement("a");
       downloadLink.href = pdfURL;

@@ -423,7 +423,7 @@
 
       var downloadLink = document.createElement("a");
       downloadLink.href = pdfURL;
-      downloadLink.download = "my-cv.pdf";
+      downloadLink.download = "Vivian_Li_Resume.pdf";
 
       document.body.appendChild(downloadLink);
 
